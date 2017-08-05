@@ -1,0 +1,6 @@
+C:\Dev\CSharp\Katas\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\Dev\CSharp\Katas\Fibonacci\Fibonacci\bin\Debug\Fibonacci.exe
+C:\Dev\CSharp\Katas\Fibonacci\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\Dev\CSharp\Katas\Fibonacci\Fibonacci\obj\Debug\Fibonacci.csprojResolveAssemblyReference.cache
+C:\Dev\CSharp\Katas\Fibonacci\Fibonacci\obj\Debug\Fibonacci.exe
+C:\Dev\CSharp\Katas\Fibonacci\Fibonacci\obj\Debug\Fibonacci.pdb
